@@ -6,7 +6,8 @@ In this assignment, I utilized 6 CSV files to create and analyze tables within S
 ## Part 1: Data Modeling
 Below is a picture of the ERD that was created to show the relationships between the tables and columns. 
 
-![Alt text](employee_ERD-1.png)
+![employee_ERD](https://github.com/stoddow313/SQL-Challenge/assets/134353666/617ef14c-2160-452b-b64b-326c46a29518)
+
 
 ## Part 2: Data Engineering 
 In this section of the assignment, we were tasked with created a table schema for the 6 CSV files provided. This is where I created the tables for each csv, and applied primary, foreign,and composite keys to the necessary columns. For both the department employee table, and the department manager table a composite key was necessary to use as these tables each required multiple primary keys to function. 
